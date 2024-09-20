@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Andika";
+  src: url(/src/assets/fonts/AndBasR.ttf);
+}
+@font-face {
+  font-family: "F25";
+  src: url(/src/assets/fonts/F25_Executive.otf);
+}
+
+.gallery-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "F25";
+  font-weight: bold;
+  margin-top: 10px;
+}

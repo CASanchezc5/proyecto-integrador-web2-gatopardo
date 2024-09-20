@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Andika";
+  src: url(../assets/fonts/AndBasR.ttf);
+}
+@font-face {
+  font-family: "F25";
+  src: url(../assets/fonts/F25_Executive.otf);
+}
+
+
+.workshops-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "F25";
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.img-wokshops{
+  width: 20%;
+  height: 20%;
+  position: relative;
+  top: 10px;
+  left: 550px;
+}
