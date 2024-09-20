@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y tecnologías</h3>
+<h2 align="left">🛠 Lenguajes y tecnologías</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Instalación del proyecto</h3>
+<h2 align="left">Instalación del proyecto</h2>
 
 ###
 
