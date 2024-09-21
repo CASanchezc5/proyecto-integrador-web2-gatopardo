@@ -2,6 +2,7 @@ import "./Contact.css";
 import { FaPhone, FaEnvelope, FaLocationDot } from "react-icons/fa6";
 import Menu from "../components/Menu";
 import Button from "../components/Button";
+import Footer from "../components/Footer";
 
 function Contact() {
   return (
@@ -32,6 +33,7 @@ function Contact() {
           <p><FaLocationDot color="#054a61" /> Calle Falsa 123, Ciudad, País</p>
         </div>
       </section>
+      <Footer />
     </div>
   );
 }

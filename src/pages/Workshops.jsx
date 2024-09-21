@@ -1,4 +1,5 @@
 import Card from "../components/Card"
+import Footer from "../components/Footer"
 import Menu from "../components/Menu"
 import "./Workshops.css"
 
@@ -14,6 +15,8 @@ function Workshops() {
         <Card /> 
         <Card /> 
       </div>
+
+      <Footer />
     </div>
   )
 }
