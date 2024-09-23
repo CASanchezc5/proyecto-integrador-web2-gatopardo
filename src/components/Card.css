@@ -6,7 +6,7 @@
 .container-card {
   background-color: #c4bebe;
   width: 90%; /* Aumentamos el ancho para un diseño horizontal */
-  height: 200px; /* Ajustamos la altura para el formato horizontal */
+  height: 300px; /* Ajustamos la altura para el formato horizontal */
   cursor: pointer;
   margin: 15px;
   border-radius: 10px;

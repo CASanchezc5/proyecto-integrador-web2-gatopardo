@@ -24,3 +24,11 @@
   top: 10px;
   left: 550px;
 }
+
+.container-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Dos columnas de igual tamaño */
+  gap: 20px; /* Espacio entre las cards */
+  justify-content: center;
+  margin: 20px;
+}
