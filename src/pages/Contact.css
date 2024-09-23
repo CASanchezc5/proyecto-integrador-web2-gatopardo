@@ -64,7 +64,8 @@
   display: flex;
   position: absolute;
   bottom: 30px;
-
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .contact-info p{

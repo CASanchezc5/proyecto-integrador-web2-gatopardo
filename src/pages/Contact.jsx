@@ -28,9 +28,9 @@ function Contact() {
         </form>
 
         <div className="contact-info">
-          <p><FaEnvelope color="#054a61" /> contacto@ejemplo.com</p>
-          <p><FaPhone color="#054a61" /> +34 123 456 789</p>
-          <p><FaLocationDot color="#054a61" /> Calle Falsa 123, Ciudad, País</p>
+          <p><FaEnvelope color="#054a61" /> andresanta1981@gmail.com</p>
+          <p><FaPhone color="#054a61" /> +57 310 515 4524</p>
+          {/* <p><FaLocationDot color="#054a61" /> Calle Falsa 123, Ciudad, País</p> */}
         </div>
       </section>
       <Footer />
