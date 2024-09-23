@@ -5,7 +5,7 @@ function Menu() {
   return (
     <header className="header-menu">
       <div className="container-logo">
-        <Link to="/"><img src="public/logito-gato-pardo-10.png" alt="logo-gatopardo" /></Link>
+        <Link to="/"></Link>
       </div>
       <nav className="nav-menu">
         <ul className="nav-links">

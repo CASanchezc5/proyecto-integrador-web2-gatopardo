@@ -7,7 +7,7 @@ const Register = () => {
   return (
     <div className="container-register">
       <div className="container-logo">
-        <img src="public/logito-gato-pardo-10.png" alt="" />
+        <img  />
       </div>
       <form className="login-form" action="">
         <h1 className="title-register">Registro</h1>

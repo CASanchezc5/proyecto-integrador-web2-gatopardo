@@ -7,7 +7,7 @@ function Login() {
   return (
     <div className="container-login">
       <div className="container-logo">
-        <Link to="/"> <img src="public/logito-gato-pardo-10.png" alt="" /></Link>
+        <Link to="/"></Link>
       </div>
       <form className="login-form" action="">
         <h1 className="title-login">Iniciar Sesión</h1>
