@@ -9,8 +9,8 @@ function Workshops() {
     <div className="wokshops-container">
       <Menu />
       {/* <h1 className="workshops-title">Talleres</h1> */}
-      <img className="img-wokshops" src="public/logito-gato-pardo-14.png" alt="" />
-      {/* <img className="img-wokshops" src="public/logito-gato-pardo-03.png" alt="" /> */}
+      {/* <img className="img-wokshops" src="public/logito-gato-pardo-14.png" alt="" /> */}
+      
 
       <div class="slider-box">
         <ul>
