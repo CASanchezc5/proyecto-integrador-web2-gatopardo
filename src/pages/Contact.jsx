@@ -24,7 +24,7 @@ function Contact() {
           <label htmlFor="message">Mensaje</label>
           <textarea id="message"  rows="4" ></textarea>
 
-          <Button className="button" />  {/* <input type="button" value="Enviar" /> */}
+          <Button className="button" text="Enviar" />  {/* <input type="button" value="Enviar" />, no se utiliza el value y se utiliza el text, para personalizar el texto, que va mediente una props */}
         </form>
 
         <div className="contact-info">

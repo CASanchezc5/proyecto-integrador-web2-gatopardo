@@ -14,7 +14,7 @@ const Register = () => {
         <input type="text" placeholder="Usuario" />
         <input type="text" placeholder="Contraseña" />
         <input type="email" placeholder="Correo Electronico" />
-        <Button className="button" />  {/* <input type="button" value="Registrarse" /> */}
+        <Button className="button" text="Registrarse" />  {/* <input type="button" value="Registrarse" /> */}
         <Link  className="link" to="/login">
           Si ya tienes cuenta inicia sesión aquí
         </Link>

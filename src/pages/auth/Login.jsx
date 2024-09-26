@@ -13,7 +13,7 @@ function Login() {
         <h1 className="title-login">Iniciar Sesión</h1>
         <input type="text" placeholder="Usuario" />
         <input type="text" placeholder="Contraseña" />
-        <Button className="button" />     {/* <input type="button" value="Ingresar" /> */}
+        <Button className="button" text="Inicia Sesión" />     {/* <input type="button" value="Ingresar" /> */}
         <Link  className="link" to="/register">
           Si no tienes cuenta Regístrate aquí
         </Link>
