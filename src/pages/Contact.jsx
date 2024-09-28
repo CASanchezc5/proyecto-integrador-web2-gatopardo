@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 
 function Contact() {
   return (
-    <div>
+    <div className="container">
       <Menu />
 
       <h1 className="contact-title">Contacto</h1>

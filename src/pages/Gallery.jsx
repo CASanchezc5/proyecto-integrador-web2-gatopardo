@@ -4,7 +4,7 @@ import './Gallery.css'
 
 const Gallery = () => {
   return (
-    <div>
+    <div className="container">
       <Menu />
       <h1 className='gallery-title'>Galeria</h1>
 

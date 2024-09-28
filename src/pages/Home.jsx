@@ -3,7 +3,7 @@ import Menu from "../components/Menu";
 import "./Home.css";
 function Home() {
   return (
-    <div>
+    <div className="container">
       <Menu />
       {/* <h1 className="home-title">Home</h1> */}
       <div className="banner">

@@ -6,7 +6,7 @@ import "./Workshops.css"
 
 function Workshops() {
   return (
-    <div className="wokshops-container">
+    <div className="container">
       <Menu />
       {/* <h1 className="workshops-title">Talleres</h1> */}
       {/* <img className="img-wokshops" src="public/logito-gato-pardo-14.png" alt="" /> */}
