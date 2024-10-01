@@ -8,14 +8,14 @@
 }
 
 
-.workshops-title{
+/* .workshops-title{
   display: flex;
   justify-content: center;
   align-items: center;
   font-family: "F25";
   font-weight: bold;
   margin-top: 10px;
-}
+} */
 
 /* .img-wokshops{
   width: 20%;
@@ -53,18 +53,18 @@
   position: relative;
 }
 
-.texto{
+/* .texto{
   position: absolute;
   text-align: center;
   padding: 0 250px;
   top: 250px;
   color: #fff;
-}
+} */
 
-.texto h2{
+/* .texto h2{
   font-size: 45px;
   margin-bottom: 35px;
-}
+} */
 
 .slider-box img{
   width: 100%;
