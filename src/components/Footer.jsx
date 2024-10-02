@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='container-footer'>
       <footer className='footer'>
         <span><img src="public/logito-gato-pardo-10.png" alt="" /></span>
-        <span>Derechos de autor &copy; Gato Pardo. Reservados todos los derechos</span>
+        <span>Copyright 2024&copy;. Todos los derechos reservados | Gato Pardo &#174;</span>
         <span className='links-footer'>
           {/* <a href=""><FaFacebook color='#45a0e6' className='icon' />Facebook</a> */}
           <a href=""><FaEnvelope color="#F5F5F5" className='icon' />andresanta1981@gmail.com</a>
