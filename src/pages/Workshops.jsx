@@ -7,28 +7,30 @@ function Workshops() {
   const workshops = [
     {
       id: 1,
-      image: "public/_MG_5633.jpg",
-      title: "Taller 1",
-      description: "Descripción del taller 1",
+      image: "public/carvadoSellos.jpg",
+      title: "Carvado de Sellos",
+      description:
+        "Consiste en el tallado de una imagen sobre una superficie blanda, ofrece una experiencia única que combina creatividad y sostenibilidad. Esta técnica artesanal permite a los participantes explorar su imaginación mientras aprenden a crear sellos personalizados, transfiriendo sus ideas a diversos materiales mediante un proceso manual que celebra lo hecho a mano.",
     },
     {
       id: 2,
-      image: "public/_MG_5633.jpg",
-      title: "Taller 2",
-      description: "Descripción del taller 2",
+      image: "public/EstampTela.jpeg",
+      title: "Estampación en Tela",
+      description:
+        "En este taller aprenderás la técnica de estampación en tela utilizando sellos artesanales. Descubre cómo crear patrones únicos y personalizando tus prendas o accesorios, experimentando con diferentes formas, texturas y colores. Ideal para quienes buscan una experiencia creativa y divertida.",
     },
-    {
-      id: 3,
-      image: "public/_MG_5633.jpg",
-      title: "Taller 3",
-      description: "Descripción del taller 3",
-    },
-    {
-      id: 4,
-      image: "public/_MG_5633.jpg",
-      title: "Taller 4",
-      description: "Descripción del taller 4",
-    },
+    // {
+    //   id: 3,
+    //   image: 'public/slider3.jpg',
+    //   title: 'Taller 3',
+    //   description: 'Descripción del taller 3',
+    // },
+    // {
+    //   id: 4,
+    //   image: 'public/slider4.jpg',
+    //   title: 'Taller 4',
+    //   description: 'Descripción del taller 4',
+    // },
   ];
   return (
     <div className="container">
