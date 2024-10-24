@@ -7,10 +7,11 @@ const Register = () => {
   return (
     <div className="container-register">
       <div className="container-logo">
-        <img  />
+      <Link to="/"></Link>
       </div>
       <form className="login-form" action="">
         <h1 className="title-register">Registro</h1>
+        <input type="text" placeholder="Nombre Completo" />
         <input type="text" placeholder="Usuario" />
         <input type="text" placeholder="Contraseña" />
         <input type="email" placeholder="Correo Electronico" />
