@@ -32,7 +32,7 @@ function login(){
       icon: "warning",
       title: "Campos incompletos",
       text: "Por favor, complete todos los campos para Iniciar Sesión.",
-      confirmButtonColor: "#cd890a",
+      confirmButtonColor: "#054a61",
     });
     return; // Evita continuar si los campos están vacíos
   }
@@ -66,7 +66,7 @@ function login(){
       icon: "error",
       title: "Oops...",
       text: "Usuario y/o contraseña incorrecto!",
-      confirmButtonColor: "#cd890a", //Cambia el color del botón
+      confirmButtonColor: "#054a61", //Cambia el color del botón
     });
   }
 }
