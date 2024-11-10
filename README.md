@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Este es el proyecto integrador de programación para la web 2, el cual se llama Gato Pardo, y fue diseñado para una profesora de diseño grafico del CESDE,  este proyecto busca mostrar una aplicación front creada con React y diferentes herramientas de contenido visual y gráfico</p>
+<p align="left">Este es el proyecto integrador de programación para la web 2, el cual se llama Gato Pardo, y fue diseñado para una profesora de diseño grafico del CESDE,  este proyecto busca mostrar una aplicación front creada con React y diferentes herramientas de contenido visual y gráfico, además se utilizó json-server, para la simulación del servidor, sweetAlert2 para la creación de ventanas emergentes (alerts) y UUID Generator, para generación de ids más complejos</p>
 
 ###
 
