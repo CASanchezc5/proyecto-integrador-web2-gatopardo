@@ -81,3 +81,8 @@
   margin-top: 20px; /* Ajusta el margen superior para darle espacio */
 }
 
+.form-contact textarea{
+  padding: 10px;
+  font-family: 'Andika';
+}
+
