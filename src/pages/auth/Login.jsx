@@ -84,7 +84,7 @@ function searchUser(){
       <form className="login-form" action="">
         <h1 className="title-login">Iniciar Sesión</h1>
         <input onChange={(e)=> setStateUser(e.target.value)} type="text" placeholder="Usuario" />
-        <input onChange={(e)=> setStatePassword(e.target.value)} type="text" placeholder="Contraseña" />
+        <input onChange={(e)=> setStatePassword(e.target.value)} type="password" placeholder="Contraseña" />
         <Button onClick={login} className="button" text="Inicia Sesión" />     {/* <input type="button" value="Ingresar" /> */}
         <Link  className="link" to="/register">
           Si no tienes cuenta Regístrate aquí
