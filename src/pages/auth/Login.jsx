@@ -10,7 +10,7 @@ const URL_USERS = 'http://localhost:3000/users';
 
 function Login() {
 
-  const [stateUsers, setStateUsers] = useState([])
+const [stateUsers, setStateUsers] = useState([])
 const [stateUser, setStateUser] = useState('')
 const [statePassword, setStatePassword] = useState('')
 
@@ -30,7 +30,7 @@ function login(){
   if(stateUser === "" || statePassword === ""){
     Swal.fire({
       icon: "warning",
-      title: "Campos incompletos",
+      title: "¡Campos incompletos!",
       text: "Por favor, complete todos los campos para Iniciar Sesión.",
       confirmButtonColor: "#054a61",
     });
