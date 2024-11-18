@@ -6,6 +6,13 @@
       "password": "12345",
       "email": "cs@gmail.com",
       "id": "7832"
+    },
+    {
+      "id": "f88103a8-d6ea-4b0e-a932-f870608831a6",
+      "name": "Gonzalo",
+      "user": "gonza",
+      "password": "abc123",
+      "email": "gonza@gmail.com"
     }
   ],
   "messages": [
@@ -15,6 +22,13 @@
       "email": "caro@gmailcom",
       "subject": "Taller de carvado",
       "message": "Me gustaria tomar el taller de carvado de sellos"
+    },
+    {
+      "id": "65e328e6-57c3-4e7e-b629-d26aaa4bcd5f",
+      "name": "Sebastian",
+      "email": "sabas@gmail.com",
+      "subject": "Deseo el taller de estampado",
+      "message": "Estoy interesado en tomar el taller de estampado"
     }
   ]
 }
