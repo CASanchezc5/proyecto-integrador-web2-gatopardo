@@ -13,7 +13,7 @@ const Analytics = () => {
         <div className="card-analitycs">
           <FaChartLine className="card-icon" />
           <h3>Rendimiento</h3>
-          <p>Analiza el rendimiento de tus campañas y descubre las tendencias principales.</p>
+          <p>Analiza el rendimiento de tus talleres y descubre las tendencias principales.</p>
         </div>
         
         <div className="card-analitycs">

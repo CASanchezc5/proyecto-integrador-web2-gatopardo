@@ -26,7 +26,7 @@ function Contact() {
         icon: "warning",
         title: "Campos incompletos",
         text: "Por favor, complete todos los campos.",
-        confirmButtonColor: "#cd890a",
+        confirmButtonColor: "#054a61",
       });
       return;
     }

@@ -86,7 +86,7 @@ const Register = () => {
       Swal.fire({
         icon: "error",
         title: "¡Contraseña inválida!",
-        text: "Por favor, verifica que tenga minimo 3 digitos y sea alfanumérica.",
+        text: "Por favor, verifica que tenga mínimo 6 caracteres y 3 dígitos numéricos.",
         confirmButtonColor: "#054a61",
       });
       return; // Evita continuar si el correo no es válido
