@@ -5,12 +5,22 @@
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  margin-top: 10px;
-  margin-left: 47%;
   display: flex;
   justify-content: center;
+  top: 50px;
+  margin: 100px auto; /* Centra la imagen horizontalmente */
+  position: relative;
+  display: block;
 }
 
 .title-profile{
   text-align: center;
+  position: relative;
+  /* top: 20px; */
+}
+
+.paragraph-profile{
+  text-align: center;
+  position: relative;
+  top: 200px;
 }

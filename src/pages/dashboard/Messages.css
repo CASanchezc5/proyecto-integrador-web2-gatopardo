@@ -1,0 +1,71 @@
+.messages-page {
+  padding: 20px;
+  /* height: 100%; */
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.title-messages {
+  margin-top: 10px;
+  color: #054a61;
+  font-family: "F25";
+  text-align: center;
+}
+
+/* Contenedor de tarjetas */
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  /* overflow-y: auto; */
+  /* max-height: calc(100vh - 200px);  Ajusta según el espacio disponible  */
+  padding: 10px;
+  border: 1px solid #ddd; /* Opcional, para diferenciar el contenedor */
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+/* Tarjetas individuales */
+.card-messages {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start; /* Opcional, para alinear el texto a la izquierda */
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(16, 16, 17, 0.507);
+  max-width: 100%; /* Responsivo */
+  min-height: 150px;
+}
+
+.card-messages h3 {
+  margin-bottom: 10px;
+  font-size: 1.2em;
+  color: #054a61;
+}
+
+.card-messages p {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.card-icon-messages {
+  font-size: 2em;
+  color: #054a61;
+  margin-bottom: 10px;
+  text-align: center;
+}
+.card-icon-messages {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left:400px;
+  font-size: 2em;
+  color: #054a61;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  margin-left: 90px;
+}

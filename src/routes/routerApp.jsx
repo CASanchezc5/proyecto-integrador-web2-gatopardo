@@ -8,6 +8,7 @@ import Gallery from "../pages/Gallery";
 import Dashboard from "../pages/dashboard/Dashboard";
 import Profile from "../pages/dashboard/Profile";
 import Analytics from "../pages/dashboard/Analytics";
+import  Messages  from "../pages/dashboard/Messages";
 
 export let routes = [
   {
@@ -52,6 +53,10 @@ export let routes = [
             path: 'analytics',
             element: <Analytics />
         },
+        {
+          path: 'messages',
+          element: <Messages />
+      },
     ]
   }
 ]

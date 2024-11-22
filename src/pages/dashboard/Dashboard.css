@@ -2,19 +2,29 @@
 
 main {
   width: 100%;
+  /* height: 100vh; */
+  min-height: 100vh; /* Cambiar de height a min-height */
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  flex-direction: row;
+  /* justify-content: space-between;
+  align-items: center; */
+  /*overflow: hidden; Para evitar desbordamientos generales */
+  overflow-x: hidden; /* Ocultar desplazamiento horizontal si lo hubiera */
+  overflow-y: auto; /* Permitir que el contenido genere scroll si es necesario */
 }
 
 main aside {
-  width: 30%;
+  width: 20%;
+  /* height: 100%; */
   background-color: #054a61;
   color: #fff;
   display: flex;
+  /* justify-content: center; */
   flex-direction: column;
   align-items: center;
   padding: 20px;
+  /* gap: 5%; */
+  box-sizing: border-box; /* Asegura que padding se incluya en el ancho */
 }
 
 .sidebar h2 {
@@ -52,16 +62,19 @@ main aside {
 } */
 
 main section {
-  width: 70%;
-  height: 100%;
+  width: 80%;
+  /* height: 100%; */
   background-color: #fff;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  /* justify-content: center; */
+  /* align-items: center; */
   flex-direction: column;
+  gap: 20px;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box; /* Evita desbordamientos causados por padding */
 }
 
 .dashboard .content-dashboard h1,
@@ -78,7 +91,7 @@ main section {
 }
 
 .dashboard .content-dashboard .glass{
-  width: 70%;
+  width: 100%;
   height: 60px;
   background-color: #054a6121;
 }

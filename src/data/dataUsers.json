@@ -13,6 +13,13 @@
       "user": "gonza",
       "password": "abc123",
       "email": "gonza@gmail.com"
+    },
+    {
+      "id": "82d26d98-cf5f-4972-88cc-058c7f940058",
+      "name": "Jaime",
+      "user": "james",
+      "password": "jmz123",
+      "email": "jaime@gmail.com"
     }
   ],
   "messages": [
@@ -29,6 +36,13 @@
       "email": "sabas@gmail.com",
       "subject": "Deseo el taller de estampado",
       "message": "Estoy interesado en tomar el taller de estampado"
+    },
+    {
+      "id": "f3cf4f34-d8ca-4476-a0cc-da2d075b4e55",
+      "name": "Jaime",
+      "email": "j@gmail.com",
+      "subject": "taller estampacion",
+      "message": "Interesado en tomar el taller"
     }
   ]
 }

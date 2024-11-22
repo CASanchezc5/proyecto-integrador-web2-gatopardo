@@ -4,8 +4,9 @@
   padding: 20px;
 }
 
-.title-profile{
-  margin-top: 50px;
+.analytics-page .title-profile{
+  padding: 5px;
+  margin-top: 20px;
   color: #054a61;
   font-family: 'F25';
 }
@@ -16,11 +17,12 @@
   gap: 5px;
   justify-content: center;
   flex-direction: column;
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 .card-analitycs {
   display: flex;
+  flex-direction: column;
   align-items: center;
   background-color: #c4bebe;
   border-radius: 10px;
@@ -40,7 +42,8 @@
 .card-icon {
   font-size: 2em;
   color: #054a61;
-  margin-bottom: 10px;
+  margin-top: 100px;
+  margin-left: 470px;
 }
 
 .card-analitycs h3 {
