@@ -45,7 +45,7 @@
 
 <p align="left">-Abrir una terminal de comando<br>-Clonar el repo<br>-Abrir el proyecto con el editor<br>-Instalar la dependencias<br>-Levantar el servidor</p>
 
-#Equipo de Desarrollo
+<h2 align="left">Equipo de Desarrollo</h2>
 * **[Carlos Sánchez](https://github.com/CASanchezc5)**: colaborador
 * **[Mariana Garzon](https://github.com/marigarzon)**: colaborador
 * **[Camilo Quintana](https://github.com/Camilo0291)**: colaborador
