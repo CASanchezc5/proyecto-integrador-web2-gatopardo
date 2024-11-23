@@ -1,12 +1,12 @@
 import './Analytics.css'
-import { FaTools  } from 'react-icons/fa';
+import { FaPalette  } from 'react-icons/fa';
 
 
 const Analytics = () => {
   return (
     <div className='analytics-page'>
 
-      <FaTools className="card-icon" />
+      <FaPalette className="card-icon" />
    
       <h2 className="title-profile">Mis Talleres</h2>
 

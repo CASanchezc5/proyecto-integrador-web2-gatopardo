@@ -1,6 +1,6 @@
 // src/pages/Dashboard.jsx
 import "./Dashboard.css";
-import { FaHome, FaUser, FaTools , FaEnvelopeOpenText } from "react-icons/fa";
+import { FaHome, FaUser, FaPalette , FaEnvelopeOpenText } from "react-icons/fa";
 import { Link, Outlet } from "react-router-dom";
 const Dashboard = () => {
   return (
@@ -16,7 +16,7 @@ const Dashboard = () => {
           <FaUser className="icon" /> Perfil
         </Link>
         <Link to="analytics" className="nav-link">
-          <FaTools  className="icon" /> Talleres
+          <FaPalette  className="icon" /> Talleres
         </Link>
         <Link to="messages" className="nav-link">
             <FaEnvelopeOpenText className="icon" /> Mensajes
